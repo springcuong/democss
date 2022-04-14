@@ -1,0 +1,25 @@
+h1{
+    background-color: red;
+}
+
+.heading1{
+    background-color: yellow;
+}
+
+#title1{
+    background-color: green;
+}
+
+#title1{
+    background-color: pink;
+}
+
+.section1 #title1{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+
+.heading1#title1{
+    background-color: aqua;
+}
